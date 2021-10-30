@@ -20,8 +20,11 @@ Step 2: If you are unfamiliar with the term "Implicit Bias," take time to read t
 Create a gist on Github and reflect (4-6 sentences) on the following questions:
 
 * What were your reflections from the video?
+ - The video does a great job of describing how we cannot necessarily get away from our unconscious bias. The major reflection I have from the video is how we undermine ourselves and our lives if we succumb to our unconscious biases. We are less innovative, less open and less creative when we believe that we can always be objective. Recognizing the unconscious biases that occur in our lives enables us to open ourselves up more to the people around us. This also will create a better professional life as you can open your range of people you provide services for, build programs for, etc. 
 * In what ways have you examined your implicit biases before coming to Turing?
+ - I worked as a director of a substance abuse facility and had clients from various walks of life. Encountering implicit biases was common as you initially have a sense of which clients would succeed and which clients would not. These biases were quickly shattered as people do not fit these biases. Over time, it become necessary to always check initial judgments as these can hinder people's treatment in how you operate with them. Implicit biases can be common in the healthcare industry and it's tragic because people's lives are on the line. 
 * What kind of software do you imagine building in the future? How will understanding biases (or avoiding understanding biases) impact your products?
+ - I come from the 'helping' industry and will always be drawn to it. I imagine developing software at some point in time that helps connect people to more resources, making help and support more accessible. I have ideas for a "recovery" platform that could provide a lot of functionality in the field. In order to make the platform effective, understanding biases would be absolutely necessary. You could very easily develop a platform that only caters to a specific demographic if such biases go unchecked. Bringing in multiple developers and collaborating with a diverse group of content creators would be necessary in truly understanding how to best serve a wider range of individuals. 
 
 
 #### READ
